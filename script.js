@@ -6,6 +6,7 @@ const submitBtn = document.querySelector('#submit-btn');
 const onSubmit = (e) => {
   e.preventDefault();
 
+  // do what  you like when user enters  is credentials
   console.log('submitted');
 };
 
